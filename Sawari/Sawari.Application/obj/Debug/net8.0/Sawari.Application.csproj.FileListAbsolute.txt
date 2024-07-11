@@ -1,0 +1,15 @@
+C:\Users\istia\source\repos\Sawari\Sawari.Application\bin\Debug\net8.0\Sawari.Application.deps.json
+C:\Users\istia\source\repos\Sawari\Sawari.Application\bin\Debug\net8.0\Sawari.Application.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Application\bin\Debug\net8.0\Sawari.Application.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Application\bin\Debug\net8.0\Sawari.Domain.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Application\bin\Debug\net8.0\Sawari.Domain.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.csproj.AssemblyReference.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.AssemblyInfoInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.AssemblyInfo.cs
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.A.5244B2B0.Up2Date
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\refint\Sawari.Application.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\Sawari.Application.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Application\obj\Debug\net8.0\ref\Sawari.Application.dll

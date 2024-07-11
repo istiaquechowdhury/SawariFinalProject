@@ -1,0 +1,11 @@
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\bin\Debug\net8.0\Sawari.Domain.deps.json
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\bin\Debug\net8.0\Sawari.Domain.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\bin\Debug\net8.0\Sawari.Domain.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.AssemblyInfoInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.AssemblyInfo.cs
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\refint\Sawari.Domain.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\Sawari.Domain.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Domain\obj\Debug\net8.0\ref\Sawari.Domain.dll

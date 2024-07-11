@@ -1,0 +1,17 @@
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Infrastructure.deps.json
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Infrastructure.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Infrastructure.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Application.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Domain.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Application.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\bin\Debug\net8.0\Sawari.Domain.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.AssemblyInfo.cs
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.I.17D8C84B.Up2Date
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\refint\Sawari.Infrastructure.dll
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\Sawari.Infrastructure.pdb
+C:\Users\istia\source\repos\Sawari\Sawari.Infrastructure\obj\Debug\net8.0\ref\Sawari.Infrastructure.dll

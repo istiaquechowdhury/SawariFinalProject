@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\istia\\source\\repos\\Sawari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\productdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\productdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\sawari.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\sawari.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C631E-2563-45FF-9F5C-AF46E64BCD7A}|Sawari.Web\\Sawari.Web.csproj|solutionrelative:sawari.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\unitofworkclasses\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\unitofworkclasses\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\unitofworkclasses\\productunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\unitofworkclasses\\productunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\repositorypatternclasses\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\repositorypatternclasses\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\repositorypatternclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\repositorypatternclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\repositorypatternclasses\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\repositorypatternclasses\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\sawari.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\sawari.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\unitofworkinterfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\unitofworkinterfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\unitofworkinterfaces\\iproductunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\unitofworkinterfaces\\iproductunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\repositorypatterninterfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\repositorypatterninterfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\repositorypatterninterfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\repositorypatterninterfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB8C3-8453-4607-8B42-067AFD0D8EAD}|Sawari.Domain\\Sawari.Domain.csproj|solutionrelative:sawari.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E6C77-924F-4091-B1D8-1D10E39387A0}|Sawari.Application\\Sawari.Application.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.application\\services\\iproductmanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E6C77-924F-4091-B1D8-1D10E39387A0}|Sawari.Application\\Sawari.Application.csproj|solutionrelative:sawari.application\\services\\iproductmanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7E6C77-924F-4091-B1D8-1D10E39387A0}|Sawari.Application\\Sawari.Application.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.application\\services\\productmanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7E6C77-924F-4091-B1D8-1D10E39387A0}|Sawari.Application\\Sawari.Application.csproj|solutionrelative:sawari.application\\services\\productmanagementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\sawari\\sawari.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C029394-4695-4C5C-81CE-692811D1C9C9}|Sawari.Infrastructure\\Sawari.Infrastructure.csproj|solutionrelative:sawari.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:38:40.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAHgCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:22:23.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sawari.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Sawari.Web.csproj",
+              "RelativeDocumentMoniker": "Sawari.Web\\Sawari.Web.csproj",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Sawari.Web.csproj",
+              "RelativeToolTip": "Sawari.Web\\Sawari.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T08:47:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Program.cs",
+              "RelativeToolTip": "Sawari.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:20:33.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T08:00:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T08:00:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:27:59.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:38:43.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebModule.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\WebModule.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\WebModule.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\WebModule.cs",
+              "RelativeToolTip": "Sawari.Web\\WebModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:53:14.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:59:50.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:59:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:59:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\ProductDB\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\ProductDB\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\ProductDB\\ProductDbContext.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\ProductDB\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:12:13.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Sawari.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\appsettings.json",
+              "RelativeToolTip": "Sawari.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T08:02:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:55:27.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Models\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Models\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Models\\Dashboard.cs",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Models\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:55:10.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:52:11.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Sawari.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Sawari.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:51:55.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\UnitOfWorkClasses\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\UnitOfWorkClasses\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\UnitOfWorkClasses\\UnitOfWork.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\UnitOfWorkClasses\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:30:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\UnitOfWorkClasses\\ProductUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\UnitOfWorkClasses\\ProductUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\UnitOfWorkClasses\\ProductUnitOfWork.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\UnitOfWorkClasses\\ProductUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:30:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\Repository.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\RepositoryPatternClasses\\Repository.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\Repository.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\RepositoryPatternClasses\\Repository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:26:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\RepositoryPatternClasses\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\ProductRepository.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\RepositoryPatternClasses\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:15:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\IRepository.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\RepositoryPatternClasses\\IRepository.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\RepositoryPatternClasses\\IRepository.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\RepositoryPatternClasses\\IRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:15:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sawari.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\Sawari.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\Sawari.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\Sawari.Infrastructure.csproj",
+              "RelativeToolTip": "Sawari.Infrastructure\\Sawari.Infrastructure.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T07:13:44.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\UnitOfWorkInterfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\UnitOfWorkInterfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\UnitOfWorkInterfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Sawari.Domain\\UnitOfWorkInterfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:58.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\UnitOfWorkInterfaces\\IProductUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\UnitOfWorkInterfaces\\IProductUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\UnitOfWorkInterfaces\\IProductUnitOfWork.cs",
+              "RelativeToolTip": "Sawari.Domain\\UnitOfWorkInterfaces\\IProductUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\RepositoryPatternInterfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\RepositoryPatternInterfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\RepositoryPatternInterfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Sawari.Domain\\RepositoryPatternInterfaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABDwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\RepositoryPatternInterfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\RepositoryPatternInterfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\RepositoryPatternInterfaces\\IProduct.cs",
+              "RelativeToolTip": "Sawari.Domain\\RepositoryPatternInterfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Sawari.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:26.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Sawari.Domain\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Domain\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Sawari.Domain\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:08:21.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductManagementServices.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Application\\Services\\ProductManagementServices.cs",
+              "RelativeDocumentMoniker": "Sawari.Application\\Services\\ProductManagementServices.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Application\\Services\\ProductManagementServices.cs",
+              "RelativeToolTip": "Sawari.Application\\Services\\ProductManagementServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBMwAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:02:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductManagementServices.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Application\\Services\\IProductManagementServices.cs",
+              "RelativeDocumentMoniker": "Sawari.Application\\Services\\IProductManagementServices.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Application\\Services\\IProductManagementServices.cs",
+              "RelativeToolTip": "Sawari.Application\\Services\\IProductManagementServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:59:54.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Sawari.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\Sawari\\Sawari.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Sawari.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:48:55.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
